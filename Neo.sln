@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neo.Toolkit", "Neo.Toolkit\Neo.Toolkit.csproj", "{696C1AA7-41EF-44D6-B278-5B13BAAE998C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neo.Infrastructure", "Neo.Infrastructure\Neo.Infrastructure.csproj", "{3BF24A3B-03CC-4322-A7D4-B45BE2604F4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neo.Service.Model", "Neo.Service.Model\Neo.Service.Model.csproj", "{0852E4CF-A0EF-447A-A149-4A1D7D40C141}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neo.Service", "Neo.Service\Neo.Service.csproj", "{2E1C7849-49E7-4241-B0A0-99E6EDCF2C7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neo.Service.Test", "Neo.Service.Test\Neo.Service.Test.csproj", "{78718D57-7A6F-4347-AFC3-DDFF577CA32B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neo.Service.SDK", "Neo.Service.SDK\Neo.Service.SDK.csproj", "{A05E59C2-7EBA-4320-81BE-AD269F8D7D78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{696C1AA7-41EF-44D6-B278-5B13BAAE998C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{696C1AA7-41EF-44D6-B278-5B13BAAE998C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{696C1AA7-41EF-44D6-B278-5B13BAAE998C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{696C1AA7-41EF-44D6-B278-5B13BAAE998C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BF24A3B-03CC-4322-A7D4-B45BE2604F4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BF24A3B-03CC-4322-A7D4-B45BE2604F4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BF24A3B-03CC-4322-A7D4-B45BE2604F4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BF24A3B-03CC-4322-A7D4-B45BE2604F4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0852E4CF-A0EF-447A-A149-4A1D7D40C141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0852E4CF-A0EF-447A-A149-4A1D7D40C141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0852E4CF-A0EF-447A-A149-4A1D7D40C141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0852E4CF-A0EF-447A-A149-4A1D7D40C141}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E1C7849-49E7-4241-B0A0-99E6EDCF2C7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E1C7849-49E7-4241-B0A0-99E6EDCF2C7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E1C7849-49E7-4241-B0A0-99E6EDCF2C7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E1C7849-49E7-4241-B0A0-99E6EDCF2C7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78718D57-7A6F-4347-AFC3-DDFF577CA32B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78718D57-7A6F-4347-AFC3-DDFF577CA32B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78718D57-7A6F-4347-AFC3-DDFF577CA32B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78718D57-7A6F-4347-AFC3-DDFF577CA32B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A05E59C2-7EBA-4320-81BE-AD269F8D7D78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A05E59C2-7EBA-4320-81BE-AD269F8D7D78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A05E59C2-7EBA-4320-81BE-AD269F8D7D78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A05E59C2-7EBA-4320-81BE-AD269F8D7D78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
